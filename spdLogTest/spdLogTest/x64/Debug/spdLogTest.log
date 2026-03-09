@@ -1,0 +1,44 @@
+﻿  Cdraw.cpp
+E:\C++ test\spdLogTest\spdLogTest\Cdraw.cpp(1,1): warning C4828: 文件包含在偏移 0x51 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\Cdraw.cpp(1,1): warning C4828: 文件包含在偏移 0x55 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\Cdraw.cpp(1,1): warning C4828: 文件包含在偏移 0x58 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\Cdraw.cpp(1,1): warning C4828: 文件包含在偏移 0x59 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\Cdraw.cpp(1,1): warning C4828: 文件包含在偏移 0x5c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  main.cpp
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x82 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x83 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x85 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x88 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x8a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x8b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x8c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x8d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x92 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x93 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xc1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xc2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xc7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xcb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xcf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xd0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xd1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xe7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xe9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xeb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0xee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x106 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x108 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x10a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x10b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x10e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x124 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x125 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x127 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\C++ test\spdLogTest\spdLogTest\main.cpp(1,1): warning C4828: 文件包含在偏移 0x12b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  正在生成代码...
+  spdLogTest.vcxproj -> E:\C++ test\spdLogTest\x64\Debug\spdLogTest.exe
